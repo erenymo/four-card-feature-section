@@ -11,4 +11,4 @@ Thanks for checking out this front-end coding challenge.
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 - Solution URL : []()
-- Live Site URL: [erenymo.github.io/four-card-feature-section](erenymo.github.io/four-card-feature-section/)
+- Live Site URL: [erenymo.github.io/four-card-feature-section/](https://erenymo.github.io/four-card-feature-section/)
